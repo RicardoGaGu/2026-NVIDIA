@@ -1,7 +1,7 @@
 # 2026-NVIDIA
 
 ---
-## Getting Started with CUDA-Q.  Here are some resources to get you up to speed with CUDA-Q.  
+## Getting Started with CUDA-Q.    
 
 * If you are new to quantum computing, (e.g., you'd like a review of the definition of a qubit, quantum gates, and quantum circuits), then run through the first two notebooks of the [Quick Start to Quantum Computing](https://github.com/NVIDIA/cuda-q-academic/tree/main/quick-start-to-quantum) series.
 
